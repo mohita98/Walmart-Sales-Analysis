@@ -1,4 +1,4 @@
-# Walmart-Sales-Analysis
+![Screenshot 2024-02-14 015558](https://github.com/mohita98/Walmart-Sales-Analysis/assets/77202377/774937ed-a67d-4a11-b5ec-efcd48a6deda)# Walmart-Sales-Analysis
 
 Welcome to the Walmart Sales Analysis project! Explore insights into Walmart's performance, operations, and customer behavior through advanced data visualization techniques.
 
@@ -10,3 +10,8 @@ Inventory Management: Optimizing stock levels and identifying areas for improvem
 Supply Chain Operations: Streamlining procurement, distribution, and reducing bottlenecks.
 
 
+
+![Screenshot 2024-02-14 015558](https://github.com/mohita98/Walmart-Sales-Analysis/assets/77202377/02b9dc71-093b-4da0-b4a1-5b0cf6c6714d)
+
+
+![Screenshot 2024-02-14 015623](https://github.com/mohita98/Walmart-Sales-Analysis/assets/77202377/b1cf98f6-c6b5-4b27-b76d-571570b291db)
