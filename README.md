@@ -9,6 +9,4 @@ Customer Behavior: Understanding purchasing habits and demographics.
 Inventory Management: Optimizing stock levels and identifying areas for improvement.
 Supply Chain Operations: Streamlining procurement, distribution, and reducing bottlenecks.
 
-![Uploading Screenshot 2024-02-14 015558.png…]()
 
-![Uploading Screenshot 2024-02-14 015623.png…]()
