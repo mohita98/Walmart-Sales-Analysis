@@ -1,5 +1,3 @@
-![Screenshot 2024-02-14 015558](https://github.com/mohita98/Walmart-Sales-Analysis/assets/77202377/774937ed-a67d-4a11-b5ec-efcd48a6deda)# Walmart-Sales-Analysis
-
 Welcome to the Walmart Sales Analysis project! Explore insights into Walmart's performance, operations, and customer behavior through advanced data visualization techniques.
 
 Features -
