@@ -17,5 +17,4 @@ Providing stakeholders with actionable insights to optimize inventory management
 Enabling data-driven decision-making to drive business growth and enhance operational efficiency.
 
 ![Screenshot 2024-02-14 015558](https://github.com/mohita98/Walmart-Sales-Analysis/assets/77202377/02b9dc71-093b-4da0-b4a1-5b0cf6c6714d)
-![Screenshot 2024-04-28 155110](https://github.com/mohita98/Walmart-Sales-Analysis/assets/77202377/2cb86458-e730-4366-ba96-a1d7f2f8749b)
 ![Screenshot 2024-02-14 015623](https://github.com/mohita98/Walmart-Sales-Analysis/assets/77202377/b1cf98f6-c6b5-4b27-b76d-571570b291db)
