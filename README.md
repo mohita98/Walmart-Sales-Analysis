@@ -1,4 +1,4 @@
-## Walmart Sales Anzlysi
+## Walmart Sales Analysis
 
 ### 🛒 Overview
 This project entails a thorough analysis of Walmart sales data, leveraging CSV files as the primary data source. Through advanced analytics techniques, the project aims to uncover trends, patterns, and insights within the sales data to optimize business strategies.
